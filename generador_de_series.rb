@@ -207,6 +207,7 @@ def descripcion
         puts ""
         puts "Copia la descripción de FILMAFFINITY\nSin incluir \"Serie de TV (xxxx-xxxx) Y temporadas Z Episodios ni FILMAFFINITY al final.\"\ne.g.: https://i.postimg.cc/TYtfZPhb/imagen.png"
         puts "Pegala en https://www.browserling.com/tools/remove-accents para remover acentos (e.g.:https://i.postimg.cc/154V7XKg/imagen.png)"
+        puts "v1.0.1 (09/03/2021) sino, simplemente abri el excel y pegala en la celda"
         $filmaffinity = gets
         # puts ""
         # puts ""
